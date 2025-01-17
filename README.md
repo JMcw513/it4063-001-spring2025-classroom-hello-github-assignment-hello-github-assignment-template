@@ -1,5 +1,6 @@
 # Hello, GitHub!
-
+# Self reflection
+Edited README.md file
 ## 🔍 Overview
 In order to complete this assignment, you must perform a series of tasks centered around getting used to working with git and GitHub.
 You will be asked to accept the assignment on GitHub Classroom, which will create a repository for you on the class organization. You'll clone the repository, make updates to its files, add files to it, and push it to GitHub.
@@ -24,23 +25,22 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
-
+- .I learned how to accept an assignment, perform commit and push commands in the terminal, and creating files then merging back wth the repository.
 **I struggled with:** (repeat as needed)
-- .
+- .Getting my push command to be excepted. I resoled this by using commit with the panel function then pushing through the terminal.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- .Commit/Push commands
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+20 out of 20
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- .N/A
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . Professor
 
 ---
 ## Copyrights and License
